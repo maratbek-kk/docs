@@ -1,0 +1,3 @@
+[user]
+email=maratbek.davliaev.kk@gmail.com
+maratbek-kk
